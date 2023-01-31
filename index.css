@@ -1,0 +1,35 @@
+body {
+	text-align:center;
+	padding:0%;
+}
+
+div.card{
+	text-align:center;
+	align-content:center;
+	width:100%;
+}
+
+
+div{
+	text-align:center;
+	width:100%;
+}
+h1{
+	text-align:center;
+}
+
+div img{
+	scale:80%;
+	
+}
+
+.ftrr{
+
+		background-color:#333;
+		color:white;
+		text-align:center;
+		padding:25px;
+		margin-top:66px;
+		font-size:8px;
+
+}
